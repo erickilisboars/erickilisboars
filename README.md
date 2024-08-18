@@ -8,6 +8,7 @@
 - ⭐ Currently working on **web-development**
 - 💀 Mostly working on **private repositories**
 - 👾 A **student** working his way around things
+- Check out this [site with updated movie news](https://movienews.xyz/).
   
 &nbsp;
   
